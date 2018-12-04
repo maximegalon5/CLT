@@ -1,1 +1,1 @@
-# CLT
+This report provides a brief overview of the Central Limit Theorem for the purposes of fulfilling the submission requirements for the Statistical Inference course offered by Johns Hopkins University's Bloomberg School of Public Health on Coursera - [link](https://www.coursera.org/learn/statistical-inference).
